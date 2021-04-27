@@ -33,10 +33,13 @@ RestEasy is an online food ordering web application. Below are the set of requir
 
 
 ## Appendix: Sample Order
-Order Id: 4
-Customer Name: Vinay Kumar
-Order Date: 22-04-2020
-Order Amount: Rs 850
-Dish Vendor Qty Unit Price Total Price
-1. Gobi Manchuri Adigas 2 50 100 2. Fried Rice RotiGhar 2 200 400 3. Dahi Bhalla Punjabi Rasaoi 1 150
-150 4. Dahi Bhalla Adigas 1 200 200
+
+    Order Id: 4
+    Customer Name: Vinay Kumar
+    Order Date: 22-04-2020
+    Order Amount: Rs 850
+    Dish Vendor Qty Unit Price Total Price
+        1. Gobi Manchuri Adigas 2 50 100 
+        2. Fried Rice RotiGhar 2 200 400 
+        3. Dahi Bhalla Punjabi Rasaoi 1 150 150 
+        4. Dahi Bhalla Adigas 1 200 200
